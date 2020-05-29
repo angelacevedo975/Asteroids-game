@@ -1,0 +1,16 @@
+WIDTH, HEIGHT  = 600,500
+TITLE="Asteroid game"
+
+BLACK=(0,0,0)
+AQUA= (128,0,128)
+BROWN=(128, 64, 0)
+PURPLE =( 0, 128,128)
+WHITE=(255,255,255)
+
+SPEED=15
+GRAVITY= 10
+MILLIS=2000
+
+FONT="freesansbold.ttf"
+
+
